@@ -48,14 +48,6 @@ The game begins with an empty board. The players take turns, and Player 1 contro
 
 Once the game ends (either due to a win or a tie), the result will be displayed on the screen, and the game will automatically restart after a short delay.
 
-## Example Screenshot:
-![Screenshot of the Connect Four Game](screenshot.png)
-
-## Contributors:
-This project was developed by **Your Name**. Feel free to contribute, report issues, or suggest improvements.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
