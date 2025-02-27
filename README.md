@@ -3,29 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Connect Four Game - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        pre {
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        code {
-            font-family: monospace;
-        }
-    </style>
+
+
 </head>
 <body>
     <h1>Connect Four Game</h1>
