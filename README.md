@@ -39,7 +39,6 @@
     <p>This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT" target="_blank">LICENSE</a> file for details.</p>
 
     <h2>Keywords:</h2>
-    <p>Connect 4, Python, Pygame, AI, Minimax, Game, Strategy, Two player, Player vs AI, Algorithm, Board Game</p>
-
+    <p>Connect4, Python, Pygame, AI, Minimax, Game, Strategy, TwoPlayer, PlayerVsAI, Algorithm, BoardGame</p>
 </body>
 </html>
